@@ -50,7 +50,7 @@ Relevant coursework: Intermediate Data Structures & Algorithms · Operating Syst
 
 ## 🖥️ Setup
 
-Arch Linux + KDE Plasma. Dotfiles tracked on [GitHub](https://github.com/fmislam/dotfiles).
+Arch Linux + KDE Plasma. Dotfiles tracked on [GitHub](https://github.com/farshadislam/first-kde-env).
 
 ---
 

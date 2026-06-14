@@ -29,13 +29,13 @@ Built a full-stack SCADA monitoring system using Modbus/TCP and PyScada, increas
 
 ## 🚀 Projects
 
-### [Letterboxd Web Scraper](https://github.com/fmislam) · *JavaScript, Node.js, Playwright, Puppeteer*
+### [Letterboxd Web Scraper](https://github.com/farshadislam/letterboxd_web_scraper) · *JavaScript, Node.js, Playwright, Puppeteer*
 Scrapes and exports all reviews from a Letterboxd account to CSV. Bypassed CAPTCHA using Puppeteer's StealthPlugin with rotating proxies, and multi-threaded URL requests to reduce total execution time by 75%.
 
-### [Voluntr Opportunity Tracker](https://github.com/fmislam) · *TypeScript, Python, CSS*
+### [Voluntr Opportunity Tracker](https://github.com/kagamiAL/HackTheChange2025) · *TypeScript, Python, CSS*
 Shipped a full-stack volunteer matchmaking platform in 24 hours at HackTheChange 2025 (UCalgary national hackathon). Features user messaging, authentication, and non-blocking Vercel backend pipelines to maintain responsive rendering under burst loads.
 
-### [GPU-Accelerated Matrix Multiplier]() · *CUDA, C/C++*
+### [GPU-Accelerated Matrix Multiplier](https://github.com/farshadislam/Faster-Matrix-Operations-with-CUDA) · *CUDA, C/C++*
 Used multi-threading and GPU programming to multiply matrices of large sizes, over 120x faster than my CPU was able to output.
 
 ---

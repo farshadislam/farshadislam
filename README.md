@@ -1,4 +1,4 @@
-## Hello, my name is Farshad Islam. I like to code.
+## Hi, I'm Farshad.
 
 I'm an embedded and systems-focused Computer Science student at UBC on track to graduate in April 2027, with hands-on experience in RTOS firmware development, STM32 microcontrollers, and performance-oriented C/C++ programming. I care about low-level software done right — from interrupt-driven firmware on race cars to full-stack systems that are built to scale.
 
